@@ -1,0 +1,7 @@
+#Tue Apr 18 02:16:48 IST 2017
+base.0=C\:\\Users\\shivali\\Downloads\\MobileAppContent\\Chapter7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6de594380874378929bb1d5d732e75b205b6cee1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\shivali\\Downloads\\MobileAppContent\\Chapter7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_211cac8df5d5dc71e11259cebf6a1298c96d8017\\classes.dex
+base.1=C\:\\Users\\shivali\\Downloads\\MobileAppContent\\Chapter7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_211cac8df5d5dc71e11259cebf6a1298c96d8017
+file.0=C\:\\Users\\shivali\\Downloads\\MobileAppContent\\Chapter7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6de594380874378929bb1d5d732e75b205b6cee1\\classes.dex
